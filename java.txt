@@ -1,6 +1,6 @@
 Definition of Java programming language
 
-Java is a high-level, class-based, object-oriented programming language.
+Java is a very high-level, class-based, object-oriented programming language.
 It is designed to have as few implementation dependencies as possible. 
 It is a general-purpose programming language intended to let application developers write once, 
 run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java 
